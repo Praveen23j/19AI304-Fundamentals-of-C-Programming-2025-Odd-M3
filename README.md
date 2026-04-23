@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M3
 # IAPR-3- Module 3 - FoC
 ## 5. Implementation of one-dimensional array and multidimensional array.
 ## 6. Implementation of string manipulation.
@@ -63,7 +63,7 @@ To formulate a C program to convert a decimal number into its binary equivalent 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M3
 # IAPR-3- Module 3 - FoC
 # Ex.No:12
   Develop a C program to read a matrix and find its saddle point. A saddle point is an element that is the minimum in its row and also the maximum in its column. If such an element exists, display its position and value.
@@ -178,7 +178,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M3
 # IAPR-3- Module 3 - FoC
 # Ex.No:13
   Formulate a C program to reverse a string entered by the user and display the reversed string.
@@ -242,7 +242,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M3
 # IAPR-3- Module 3 - FoC
 # Ex.No:14
   Formulate a C program to count the frequency of each character in a given string and display the count of every character.
@@ -308,7 +308,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M3
 # IAPR-3- Module 3 - FoC
 # Ex.No:15
   Formulate a C program to remove duplicate words from a given string and display the string with only unique words.
